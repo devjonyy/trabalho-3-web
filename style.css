@@ -1,0 +1,22 @@
+body {
+	color: white;
+}
+
+#tit {
+	color: #4c2f20;
+	text-align: center;
+	width: 100%;
+}
+
+p, h2, h3, ul, table {
+	color: #4c2f20;
+}
+
+table {
+	border-width: 5px;
+	border-style: solid;
+	border color: #ddd;
+	margin: auto;
+}
+
+
